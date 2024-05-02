@@ -4,7 +4,7 @@ Tadpole Pinマウントやスクリューレス機構などを試すためのマ
 
 ## ビルドガイド
 
-[doc/buildguide.md](doc/buidguide.md)
+[doc/buildguide.md](doc/buildguide.md)
 
 ## LICENSE
 
