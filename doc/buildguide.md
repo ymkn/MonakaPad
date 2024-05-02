@@ -77,7 +77,7 @@ https://github.com/ymkn/MonakaPad/blob/main/firmware/PRK/config.rb
 
 ![MonakaPad裏面](../image/monakapad_split.jpg)
 
-MonakaPadは基板とスイッチプレートが一体の上体です。写真赤丸部分に切り取り穴が空いていますので、基板を折り曲げるようにして切り離してください。
+MonakaPadは基板とスイッチプレートが一体の状態です。写真赤丸部分に切り取り穴が空いていますので、基板を折り曲げるようにして切り離してください。
 
 > [!CAUTION]
 > 基板やスイッチプレートを割らないように注意してください。真ん中の小さい部分だけが残ってしまったときは、ペンチ等で折り曲げると切り離しやすいです。
